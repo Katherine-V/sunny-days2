@@ -1,3 +1,5 @@
+<!--@import url ("https://fonts.googleapis.com... :wght@100;200;400;700&display=swap");-->
+
 *{box-sizing:border-box; margin:0; padding:0;}
 
 body{background: url('https://images.unsplash.com/');
@@ -87,11 +89,8 @@ body{background: url('https://images.unsplash.com/');
     font-size:20px;
     padding-top: 15px;
 }
-.future-forecast .weather-forecast{
-    display: flex;
-}
 
-.future-forecast .weather-forecast-item{
+.weather-forecast .weather-forecast-item{
     display:flex;
     flex-direction:column;
     align-items: center;
@@ -101,7 +100,8 @@ body{background: url('https://images.unsplash.com/');
     border-radius: 10px;
     padding: 15px;
 }
-.future-forecast .weather-forecast-item .day{
+
+.weather-forecast .weather-forecast-item .day{
     padding: 5px 15px;
     background: 3c3c444;
     border-radius: 50px
