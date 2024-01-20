@@ -1,8 +1,7 @@
 # sunny-days
-# purpose 
-Allows for weather forecasts searchable by location, making use of an API
 
-work in progress
+# purpose 
+Allows for weather forecasts searchable by location, making use of the OpenWeather API
 
 #credits
-made use of tutorial by "Asish George Tech" available at (website goes here)
+Tutorial "How to make Weather App using Openweathermap API" by "Asish George Tech" available at https://youtu.be/6trGQWzg2AI?si=GGfoPcbQlyuAH3T5
