@@ -1,6 +1,7 @@
 # sunny-days
 
-# purpose 
+##  
+purpose 
 Allows for weather forecasts searchable by location, making use of the OpenWeather API
 
 #credits
